@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Blog</title>
+</head>
+<body>
+    <h1>Information security</h1>
+
+    <h2>information security</h2>
+    <p>Hello! I'm Sushanta, a tech enthusiast . I love sharing my thoughts on technology, <br>programming, and the latest trends in the tech world.</p>
+
+    <h2>Latest Post</h2>
+    <h3>How to Get Started with information security </h3>
+    <p>information  is a versatile. In this post, <br>
+     here is what i learened .</p>
+
+    <h2>Useful Links</h2>
+    <ul>
+        <li><a href="https://www.python.org">Python Official Website</a></li>
+        <li><a href="https://www.markdownguide.org">Markdown Guide</a></li>
+    
+</body>
+</html>
