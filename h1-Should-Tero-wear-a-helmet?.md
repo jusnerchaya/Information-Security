@@ -50,13 +50,17 @@ a)Security Hygiene: Basic Practices
 
 
 
-b) Imaginary Company Threat Model: cloudshare oy 
+
+**b) Imaginary Company Threat Model: cloudshare oy 
 
 (1) What Are We Working On?
 
 Key Assets: Customer data, encryption keys, API access, employee credentials.
+
 Crown Jewels: Customer data and encryption keys.
+
 Customer Touchpoints: Web portal for accessing and managing data.
+
 Business Goal: Secure data storage, uninterrupted service.
 
 
@@ -78,16 +82,20 @@ Threat Actors: Cybercriminals, hacktivists, insiders.
 
 (3) What Are We Going to Do About It?
 
-Mitigations:
+**Mitigations:
 Use strong access controls and MFA.
-Rotate encryption keys regularly.
-Implement firewall, IDPS, and DDoS protection.
-Regularly backup and test disaster recovery.
-Train employees on security awareness.
+
+**Rotate encryption keys regularly.
+
+**Implement firewall, IDPS, and DDoS protection.
+
+**Regularly backup and test disaster recovery.
+
+**Train employees on security awareness.
 
 
 (4) Did We Do a Good Enough Job?
 
-we can do good enounh job by Performing regular audits and pentests.
+We can do good enounh job by Performing regular audits and pentests.
 Continuously update threat models.Monitor security metrics.
 Conduct post-incident reviews for continuous improvement.
