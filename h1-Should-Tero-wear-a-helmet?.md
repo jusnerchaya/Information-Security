@@ -54,9 +54,6 @@ a)Security Hygiene: Basic Practices
 
 
 
-
-
-
 **b) Imaginary Company Threat Model: cloudshare oy 
 
 (1) What Are We Working On?
