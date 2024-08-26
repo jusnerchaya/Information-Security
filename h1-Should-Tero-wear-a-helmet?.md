@@ -1,4 +1,4 @@
-a) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that every company or average Joe should follow?
+#a) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that every company or average Joe should follow?
 
 
 ans:
