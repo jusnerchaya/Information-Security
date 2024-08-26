@@ -1,11 +1,11 @@
-#a) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that every company or average Joe should follow?
+# a) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that every company or average Joe should follow?
 
 
 ans:
 
 a)Security Hygiene: Basic Practices
 
-**For Individuals:
+# **For Individuals:
 
 1,Use strong, unique passwords.
 
@@ -26,7 +26,7 @@ a)Security Hygiene: Basic Practices
 9,Enable security alerts.
 
 
-**For Companies:
+# **For Companies:
 
 1,Train employees on security awareness.
 
@@ -54,11 +54,11 @@ a)Security Hygiene: Basic Practices
 
 
 
-**b) Imaginary Company Threat Model
+# **b) Imaginary Company Threat Model
 
 COMPANY NAME :CLOUDSHARE OY 
 
-(1) What Are We Working On?
+# (1) What Are We Working On?
 
 Key Assets: Customer data, encryption keys, API access, employee credentials.
 
@@ -70,7 +70,7 @@ Business Goal: Secure data storage, uninterrupted service.
 
 
 
-(2) What Can Go Wrong?
+# (2) What Can Go Wrong?
 
 Risks:
 Data breach: Unauthorized access via compromised API keys (High).
@@ -85,7 +85,7 @@ Threat Actors: Cybercriminals, hacktivists, insiders.
 
 
 
-(3) What Are We Going to Do About It?
+# (3) What Are We Going to Do About It?
 
 **Mitigations:
 Use strong access controls and MFA.
@@ -99,7 +99,7 @@ Use strong access controls and MFA.
 **Train employees on security awareness.
 
 
-(4) Did We Do a Good Enough Job?
+# (4) Did We Do a Good Enough Job?
 
 We can do good enounh job by Performing regular audits and pentests.
 Continuously update threat models.Monitor security metrics.
